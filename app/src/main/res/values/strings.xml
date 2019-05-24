@@ -1,0 +1,15 @@
+<resources>
+  <string name="app_name">Adventure</string>
+  <string name="SIGNIN_button_signIn">Sign In</string>
+  <string name="username">Username</string>
+  <string name="password">Password</string>
+  <string name="SIGNIN_editText_passwordHint">Input password</string>
+  <string name="SIGNIN_editText_usernameHint">Input username</string>
+  <string name="placeholder">Placeholder</string>
+  <string name="MAIN_textView_buy">Come and buy equipments!</string>
+  <string name="MAIN_button_shop">Go to shop</string>
+  <string name="attack">Attack</string>
+  <string name="agility">Agility</string>
+  <string name="health">Health</string>
+  <string name="EQUIPMENTLIST_name">Equipment Name</string>
+</resources>

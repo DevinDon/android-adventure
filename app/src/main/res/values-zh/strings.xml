@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">大冒险</string>
+  <string name="SIGNIN_button_signIn">登录</string>
+  <string name="password">密码</string>
+  <string name="username">用户</string>
+  <string name="SIGNIN_editText_usernameHint">请输入用户名</string>
+  <string name="SIGNIN_editText_passwordHint">请输入密码</string>
+  <string name="placeholder">占位符</string>
+  <string name="MAIN_textView_buy">快来购买装备吧！</string>
+  <string name="MAIN_button_shop">前往商店</string>
+  <string name="attack">攻击力</string>
+  <string name="agility">敏捷度</string>
+  <string name="health">生命值</string>
+  <string name="EQUIPMENTLIST_name">装备名称</string>
+</resources>
